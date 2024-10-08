@@ -37,7 +37,7 @@ A simple Weather App that allows users to check the weather for any city using t
 
 ```javascript
 const apikey = "YOUR_API_KEY_HERE";
-
+```
 
 
 ## Usage
