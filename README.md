@@ -25,7 +25,7 @@ A simple Weather App that allows users to check the weather for any city using t
 
 ### Installation
 
-2. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/weather-app.git
    cd weather-app
